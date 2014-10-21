@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThirdSilly</string>
+    <string name="hello">Welcome to a useless app!!</string>
+    <string name="title_activity_second_screen">Second Screen of the App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="secondScreenTitle">Welcome to the second screen</string>
+
+</resources>
